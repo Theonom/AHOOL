@@ -1,0 +1,10 @@
+
+AHOOL/Library/* 
+AHOOL/Logs/* 
+AHOOL/Temp/* 
+AHOOL/.vs/* 
+AHOOL/obj/* 
+ 
+AHOOL/.vsconfig
+AHOOL/*.sln 
+AHOOL/*.csproj 
